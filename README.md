@@ -4,7 +4,8 @@
 <p>Fell free to contact me for further files for this whole project cloning</p>
 ```
 
-<img width="1032" alt="edit-githuboctocat-index" src="https://user-images.githubusercontent.com/18093541/63132339-c3a2d300-bf8e-11e9-8222-59c2702f6c42.png">
+<img width="1032" alt="edit-githuboctocat-index" src="![image](https://user-images.githubusercontent.com/54859866/199293236-690a18a3-7437-40f6-b655-f1b8fbbf71ed.png)
+">
 
 
 When you’re done, scroll down to the `Commit changes` section near the bottom of the edit page. Add a short message explaining your change, like "Add my introduction", then click `Commit changes`.
