@@ -10,4 +10,4 @@
 When you’re done, please share with me your direct link or repository so we can exchange some learning. Thanks!!! 😘 
 
 
-:tada: You just made your first commit! :tada:
+:tada: Thanks for coming! :tada:
